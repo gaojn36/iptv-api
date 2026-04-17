@@ -1,8 +1,50 @@
 🕘️更新时间,#genre#
-2026-04-17 15:19:34,url
+2026-04-17 15:32:49,url
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
+🌏港澳台频道,#genre#
+
 ☘️广东频道,#genre#
+
+📻北京频道,#genre#
+
+📻上海频道,#genre#
+
+📻天津频道,#genre#
+
+📻重庆频道,#genre#
+
+📻河北频道,#genre#
+
+📻山东频道,#genre#
+
+📻江苏频道,#genre#
+
+📻浙江频道,#genre#
+
+📻湖南频道,#genre#
+
+📻湖北频道,#genre#
+
+📻四川频道,#genre#
+
+📻河南频道,#genre#
+
+📻安徽频道,#genre#
+
+📻福建频道,#genre#
+
+📻江西频道,#genre#
+
+📻广西频道,#genre#
+
+📻云南频道,#genre#
+
+📻贵州频道,#genre#
+
+📻东北频道,#genre#
+
+📻西北频道,#genre#
